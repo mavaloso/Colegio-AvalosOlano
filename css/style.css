@@ -280,7 +280,7 @@ a:hover {
 }
 
 #hero-area {
-  background: url("../images/slider.jpg") no-repeat 50%;
+  background: url("../images/escuela.jpg") no-repeat 50%;
   background-size: cover;
   background-attachment: fixed;
   padding: 230px 0;
@@ -1244,6 +1244,12 @@ article {
 
 .team-member p {
   font-size: 14px;
+}
+.center{
+ 
+    display:block;
+    margin:auto;
+ 
 }
 
 .team-member .social-icons a {
